@@ -1,6 +1,8 @@
 # Examples of newsletter development based on free figma templates
 
-mobile-first design
+## Description
+### mobile-first design
+### Use of html tables and style attribute when developing a newsletter due to limitations and lack of CSS support in many email clients
 
 ## Figma templates
 ![Alt text](image-1.png)
