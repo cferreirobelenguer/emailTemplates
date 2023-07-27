@@ -2,7 +2,7 @@
 
 ## Description
 ### mobile-first design
-### Use of html tables and style attribute when developing a newsletter due to limitations and lack of CSS support in many email clients
+### In cases of web layout we would use semantic tags, divs, flexbox and grids; but in the case of email layout we use tables and style attributes due to the limitations and lack of compatibility of many email clients.
 
 ## Figma templates
 ![Alt text](image-1.png)
